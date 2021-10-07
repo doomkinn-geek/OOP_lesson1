@@ -1,3 +1,3 @@
 # Диаграмма классов:
 
-![alt text](figures/img.png)
+![alt text](class_diagram.png)
