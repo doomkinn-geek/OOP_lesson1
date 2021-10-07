@@ -1,1 +1,3 @@
-# OOP_lesson1
+# Диаграмма классов:
+
+![alt text](figures/img.png)
